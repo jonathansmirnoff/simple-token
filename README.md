@@ -1,2 +1,2 @@
 # simple-token
-Project to test Truffle Teams!
+Project for testing Truffle Teams!
